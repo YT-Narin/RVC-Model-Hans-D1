@@ -13,7 +13,6 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 **Last version:** `none`
 
 ## Todo
-All tasks completed.
 - [ ] Release a model that uses 500 Epochs
 - [ ] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses 750 Epochs
