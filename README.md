@@ -1,4 +1,4 @@
-! [poster](https://media.discordapp.net/attachments/639792159469469698/1148510185367797810/RVCPosterHanssmall.png)
+![poster](https://media.discordapp.net/attachments/639792159469469698/1148510185367797810/RVCPosterHanssmall.png)
 
 
 
