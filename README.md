@@ -1,4 +1,4 @@
-# RVC Model Hans from Deceit 1
+! [poster](https://media.discordapp.net/attachments/639792159469469698/1148510185367797810/RVCPosterHanssmall.png)
 
 
 
@@ -13,7 +13,7 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 **Last version:** `none`
 
 ## Todo
-- [ ] Create banner for GitHub repository
+- [X] Create banner for GitHub repository
 - [ ] Release a model that uses 500 Epochs
 - [X] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses 750 Epochs
