@@ -16,7 +16,6 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 - [X] Create banner for GitHub repository
 - [X] Release a model that uses 500 Epochs
 - [X] Make a Wiki on a GitHub repository
-- [ ] Release a model that uses 750 Epochs
 - [ ] Release a model that uses 1000 Epochs
 
 ## License
