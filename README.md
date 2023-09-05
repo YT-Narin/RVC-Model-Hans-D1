@@ -10,11 +10,11 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 **Wiki:** [How to use the voice model for ai cover?](https://github.com/YT-Narin/RVC-Model-Hans-D1/wiki/How-to-use-the-voice-model-for-ai-cover%3F)
 
 **Support:** `RVC v2`  
-**Last version:** `none`
+**Last version:** [build-v.1.0.0](https://github.com/YT-Narin/RVC-Model-Hans-D1/releases/tag/build-v.1.0.0)
 
 ## Todo
 - [X] Create banner for GitHub repository
-- [ ] Release a model that uses 500 Epochs
+- [X] Release a model that uses 500 Epochs
 - [X] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses 750 Epochs
 - [ ] Release a model that uses 1000 Epochs
